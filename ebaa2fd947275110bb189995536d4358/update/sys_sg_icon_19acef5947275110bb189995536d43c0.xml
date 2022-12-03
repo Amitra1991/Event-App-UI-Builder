@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Event designer</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-03 06:00:18</sys_created_on>
+        <sys_id>19acef5947275110bb189995536d43c0</sys_id>
+        <sys_name>Home Event designer</sys_name>
+        <sys_package display_value="Event designer" source="x_505356_event_d">ebaa2fd947275110bb189995536d4358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event designer">ebaa2fd947275110bb189995536d4358</sys_scope>
+        <sys_update_name>sys_sg_icon_19acef5947275110bb189995536d43c0</sys_update_name>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

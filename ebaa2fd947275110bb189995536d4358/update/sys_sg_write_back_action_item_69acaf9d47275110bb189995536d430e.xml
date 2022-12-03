@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New (Event)</name>
+        <parameter_screen/>
+        <query_condition table="x_505356_event_d_event">sys_idSTARTSWITH{{Event sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Event sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-03 06:00:20</sys_created_on>
+        <sys_id>69acaf9d47275110bb189995536d430e</sys_id>
+        <sys_name>New (Event)</sys_name>
+        <sys_package display_value="Event designer" source="x_505356_event_d">ebaa2fd947275110bb189995536d4358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event designer">ebaa2fd947275110bb189995536d4358</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_69acaf9d47275110bb189995536d430e</sys_update_name>
+        <table>x_505356_event_d_event</table>
+        <template>date={{Event date}}^description={{Event description}}^event_name={{Event event_name}}^number={{Event number}}^time={{Event time}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=69acaf9d47275110bb189995536d430e"/>
+</record_update>

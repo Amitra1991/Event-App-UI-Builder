@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Event designer Incident">b9acaf9d47275110bb189995536d432b</data_item>
+        <interleaved_field/>
+        <name>Incident Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-03 06:00:22</sys_created_on>
+        <sys_id>92acaf9d47275110bb189995536d437a</sys_id>
+        <sys_name>Incident Item Stream</sys_name>
+        <sys_package display_value="Event designer" source="x_505356_event_d">ebaa2fd947275110bb189995536d4358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event designer">ebaa2fd947275110bb189995536d4358</sys_scope>
+        <sys_update_name>sys_sg_item_stream_92acaf9d47275110bb189995536d437a</sys_update_name>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

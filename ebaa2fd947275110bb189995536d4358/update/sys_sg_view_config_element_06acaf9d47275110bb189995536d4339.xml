@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>priority-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-03 06:00:21</sys_created_on>
+        <sys_id>06acaf9d47275110bb189995536d4339</sys_id>
+        <sys_name>priority-FieldValue</sys_name>
+        <sys_package display_value="Event designer" source="x_505356_event_d">ebaa2fd947275110bb189995536d4358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event designer">ebaa2fd947275110bb189995536d4358</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_06acaf9d47275110bb189995536d4339</sys_update_name>
+        <view_config display_value="Incident List Screen View Config">b1acaf9d47275110bb189995536d432c</view_config>
+        <view_template_slot display_value="text_05">b4f4c13041275010f877183fc9b8be56</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
